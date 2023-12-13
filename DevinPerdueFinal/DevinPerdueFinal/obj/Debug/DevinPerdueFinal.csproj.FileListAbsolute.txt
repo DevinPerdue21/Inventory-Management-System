@@ -1,0 +1,15 @@
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\bin\Debug\DevinPerdueFinal.exe.config
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\bin\Debug\DevinPerdueFinal.exe
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\bin\Debug\DevinPerdueFinal.pdb
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.csproj.AssemblyReference.cache
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Properties.Resources.resources
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.csproj.GenerateResource.cache
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.exe
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.pdb
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Modify_Product.resources
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Main_Menu.resources
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Add_Products.resources
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Modify_Part.resources
+C:\Users\devin\source\repos\DevinPerdueFinal\DevinPerdueFinal\obj\Debug\DevinPerdueFinal.Add_Part.resources
